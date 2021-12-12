@@ -5,6 +5,7 @@
   background-image: url(./img/background-cold.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
+  transition: 0.9s ease-in-out;
 }
 
 .warm{
@@ -14,6 +15,7 @@
   background-image: url(./img/background-warm.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
+  transition: 0.9s ease;
 }
 
 .infor{
@@ -46,5 +48,3 @@
   font-weight: 400;
   margin-top: 30px;
 }
-
-
